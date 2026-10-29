@@ -1,0 +1,27 @@
+body {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+
+  width: 1440px;
+  height: 3468px;
+  background: #fff;
+  color: #434455;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3 {
+  color: #2e2f42;
+  margin: 0;
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
